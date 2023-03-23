@@ -1,5 +1,5 @@
 # Crowdfunding ETL Project
-## For this project, a raw dataset was provided showing details for various crowdfunding projects around the world. The goal is to extract, transform, and load specific values to conduct the data analysis. Python, Pandas, and Python Dictionary methods were used to extract and transform the data. Afterwards, the newly transformed DataFrames were saved into .csv files and uploaded into PostgreSQ using the pgAdmin client.  
+## For this project, a raw dataset was provided showing details for various crowdfunding projects around the world. The goal is to extract, transform, and load specific values to conduct the data analysis. Python, Pandas, and Python Dictionary methods were used to extract and transform the data. Afterwards, the newly transformed DataFrames were saved into .csv files and uploaded into PostgreSQL using the pgAdmin client.  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### First, four seperate DataFrames were created using Python. For the first DataFrame created, the categories were extracted from the original crowdfunding dataset. A column was added to show a distinct category ID for each category. The data was extracted into a .csv file.
 
