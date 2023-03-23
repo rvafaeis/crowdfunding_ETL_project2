@@ -21,6 +21,7 @@
 Before:                                                                                                           |  After:
 :----------------------------------------------------------------------------------------------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/120426753/227373916-66c7b903-34db-4be0-aa42-0dc044e9a1cf.png)  |  ![image](https://user-images.githubusercontent.com/120426753/227374259-8d5f382e-e2ac-491d-af01-3bd90ede7253.png)
+
 ####[Contacts.csv](https://github.com/rvafaeis/crowdfunding_ETL_project2/blob/main/Resources/contacts.csv)
 
 
