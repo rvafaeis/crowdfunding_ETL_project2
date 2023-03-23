@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/120426753/227072781-421cbb5e-5923-43cf-9029-3f9521bdfc71.png)
 
 #### The data was extracted into a .csv file. The below link will direct you to the .csv created. 
-#### [Category .csv][https://github.com/rvafaeis/crowdfunding_ETL_project2/blob/main/Resources/category.csv]
+#### [Category .csv](https://github.com/rvafaeis/crowdfunding_ETL_project2/blob/main/Resources/category.csv)
 
 
 ### The second dataframe was created and the subcategories were extracted from the original crowdfunding dataset and a column was added to show a distinct subcategory ID. 
