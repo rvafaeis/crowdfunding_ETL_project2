@@ -33,6 +33,6 @@ Before:                                                                         
 ### The last step for this project was to sketch an ERD and create tables in PostgreSQL using the pgAdmin client. The previously created .csv files were imported into the tables in pgAdmin. Below shows the ERD created using QuickDBD.
 
 ![image](https://user-images.githubusercontent.com/120426753/227376865-afa02221-867c-4045-86e9-cf0ccc8c67bc.png)
-
+#### [Final SQL Code](https://github.com/rvafaeis/crowdfunding_ETL_project2/blob/main/Crowdfunding_db_Schema.sql)
 
 
