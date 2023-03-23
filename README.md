@@ -14,6 +14,7 @@
 ### The third DataFrame was created to merge the newly created category and subcategory DataFrames with the original dataset. Some unwanted columns were dropped and data types for each column were updated accordingly. Column names were updated as well. The new "Campaign" DataFrame was extracted into a .csv file.
 
 ![image](https://user-images.githubusercontent.com/120426753/227076101-5a1c106a-822a-40ea-8fba-8bf49ade3bea.png)
+The new "Campaign" DataFrame was extracted into a .csv file.
 #### [Campaign.csv](https://github.com/rvafaeis/crowdfunding_ETL_project2/blob/main/Resources/campaign.csv)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### The data for the fourth DataFrame to be created was extracted from a provided excel dataset. After using Pandas to extract the data, the first step was to clean up the data due to the original dataset having all the seperate values inside one column. To do this, Python dictionary methods were used to extract the data into a list and then placed into an empty dictionary. From there, columns were added to place the seperated dictionary list into their appropriate columns. After adding a few columns and confirming the correct datatypes for each column, the final DataFrame was completed. The "Contacts" DataFrame was extracted into a .csv file. Below shows the before and after for the contacts dataset.
