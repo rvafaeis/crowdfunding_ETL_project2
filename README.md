@@ -13,6 +13,6 @@
 ![image](https://user-images.githubusercontent.com/120426753/227073290-5b4e6add-0c9c-4ebe-aeab-9843d4bc481b.png)
 
 #### The data was extracted into a .csv file. The below link will direct you to the .csv created. 
-#### [Category .csv](https://github.com/rvafaeis/crowdfunding_ETL_project2/blob/main/Resources/subcategory.csv)
+#### [Subcategory .csv](https://github.com/rvafaeis/crowdfunding_ETL_project2/blob/main/Resources/subcategory.csv)
 
 ### The third dataframe was created and various columns were extracted from the original dataset. Data types for each column were updated accordingly and some column names were updated as well. 
